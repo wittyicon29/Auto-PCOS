@@ -1,2 +1,0 @@
-Model file in HDF5 format 
-- Drive link - https://drive.google.com/file/d/1GXBwdoN01N1Am3Xm02EMvptwLMbwiHdH/view?usp=sharing
