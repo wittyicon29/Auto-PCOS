@@ -1,3 +1,5 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/leveraging-ai-for-automatic-classification-of/medical-image-classification-on-pcos)](https://paperswithcode.com/sota/medical-image-classification-on-pcos?p=leveraging-ai-for-automatic-classification-of)
+
 # Auto-PCOS
 
 Detailed report can be viewed at [arXiv](https://arxiv.org/abs/2501.01984)
