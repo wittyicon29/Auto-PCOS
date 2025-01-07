@@ -1,5 +1,7 @@
 # Auto-PCOS
 
+Detailed report can be viewed at [arXiv](https://arxiv.org/abs/2501.01984)
+
 This pipeline involves training a binary classification model using transfer learning with a ResNetRS420 
 base model. Here's a brief overview of the steps involved:
 1. Image Preprocessing:
